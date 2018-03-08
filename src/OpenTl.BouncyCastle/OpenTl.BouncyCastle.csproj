@@ -10,7 +10,7 @@
     <Owner>Teoman Soygul</Owner>
     <Company />
     <Copyright>Legion of the Bouncy Castle Inc.</Copyright>
-    <Product>Unoffician Telegram client api library</Product>
+    <Product>OpenTl project</Product>
     <Description>- Generation and parsing of PKCS-12 files.
       - X.509: Generators and parsers for V1 and V3 certificates, V2 CRLs and attribute certificates.
       - PBE algorithms supported by PbeUtilities: PBEwithMD2andDES-CBC, PBEwithMD2andRC2-CBC, PBEwithMD5andDES-CBC, PBEwithMD5andRC2-CBC, PBEwithSHA1andDES-CBC, PBEwithSHA1andRC2-CBC, PBEwithSHA-1and128bitRC4, PBEwithSHA-1and40bitRC4, PBEwithSHA-1and3-keyDESEDE-CBC, PBEwithSHA-1and2-keyDESEDE-CBC, PBEwithSHA-1and128bitRC2-CBC, PBEwithSHA-1and40bitRC2-CBC, PBEwithHmacSHA-1, PBEwithHmacSHA-224, PBEwithHmacSHA-256, PBEwithHmacRIPEMD128, PBEwithHmacRIPEMD160, and PBEwithHmacRIPEMD256.
