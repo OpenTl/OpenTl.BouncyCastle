@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTl.BouncyCastle", "src\OpenTl.BouncyCastle\OpenTl.BouncyCastle.csproj", "{BC5CDD48-12C0-48CB-B5E5-7FB66B164897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTl.BouncyCastle.Tests", "tests\OpenTl.BouncyCastle.Tests\OpenTl.BouncyCastle.Tests.csproj", "{FC484035-3971-4B05-9EFB-AE412183133F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5CDD48-12C0-48CB-B5E5-7FB66B164897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5CDD48-12C0-48CB-B5E5-7FB66B164897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5CDD48-12C0-48CB-B5E5-7FB66B164897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5CDD48-12C0-48CB-B5E5-7FB66B164897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC484035-3971-4B05-9EFB-AE412183133F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC484035-3971-4B05-9EFB-AE412183133F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC484035-3971-4B05-9EFB-AE412183133F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC484035-3971-4B05-9EFB-AE412183133F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

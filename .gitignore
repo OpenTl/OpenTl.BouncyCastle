@@ -23,3 +23,4 @@ packages/
 *.nuget.targets
 *.project.lock.json
 project.lock.json
+/.idea/
